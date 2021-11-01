@@ -1,0 +1,13 @@
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.AccountProfileForm.resources
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.AdminForm.resources
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.LoginForm.resources
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.ManageForm.resources
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+D:\CODE_VS\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
